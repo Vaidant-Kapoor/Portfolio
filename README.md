@@ -1,10 +1,10 @@
 # Portfolio
 <html>
 <head>
-    <title>Portfolio</title>
-    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
-
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&family=Nunito:wght@500;600&display=swap" rel="stylesheet">
+    <title>Portfolio
+    <img href="">
+    
+    </title>
 </head>
 <body bgcolor="black">
     <style>
