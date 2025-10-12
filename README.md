@@ -1,4 +1,22 @@
 # Portfolio
+
+## Assets
+
+I added an `assets/` directory with example files to demonstrate linking static resources from this repository.
+
+- `assets/css/style.css` — example stylesheet
+- `assets/js/main.js` — small demo script
+- `assets/img/logo.svg` and `assets/img/hero.svg` — SVG images used by `index.html`
+
+Open `index.html` in your browser to see the demo page which references these assets.
+
+Quick local preview (macOS):
+
+```zsh
+# from repository root
+open index.html
+```
+
 <html>
 <head>
     <title>Portfolio

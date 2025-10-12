@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Logo">
+  <rect width="120" height="120" rx="20" fill="#071233"/>
+  <circle cx="60" cy="48" r="24" fill="#7dd3fc" opacity="0.95"/>
+  <path d="M30 84c8-12 28-12 44 0" stroke="#7dd3fc" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.9"/>
+</svg>

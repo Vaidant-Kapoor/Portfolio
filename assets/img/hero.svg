@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" preserveAspectRatio="none" role="img" aria-label="decorative wave">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0ea5e9" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#7dd3fc" stop-opacity="0.08"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" fill="url(#g)"/>
+  <path d="M0,120 C120,80 240,160 360,120 C480,80 600,160 800,120 L800,200 L0,200 Z" fill="#06202f" opacity="0.12"/>
+</svg>
