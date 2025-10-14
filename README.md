@@ -1,14 +1,16 @@
 # Portfolio
 
-
+<!DOCTYPE html>
+<html lang en>
+    
 <html>
 <head>
-    <title>Portfolio
+    <title> Portfolio
     <img href="">
     
     </title>
 </head>
-<body bgcolor="black">
+<body >
     <style>
         .logo{
             display: flex;
