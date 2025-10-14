@@ -5,10 +5,10 @@
     
 <html>
 <head>
-    <title> Portfolio
+     <title>Portfolio</title>
     <img href="">
     
-    </title>
+
 </head>
 <body >
 
