@@ -4,16 +4,11 @@
 <html lang en>
     
 <html>
-<head>
-    
-    <a href="https://share.google/images/Aoj1gmx9M4Sc1ObOg"></a>
-    
 
-</head>
 <body >
-
-<div class="logo" ><span class="s">SS</span>
-    <span class="I">i</span>
+<img src="https://share.google/images/tsHMuH5jPrHoRvyQf"></img>
+<div class="logo" ><span class="s"></span>
+    <span class="I"></span>
 <div class="about">
     <a href="www.linkedin.com/invaidant-kapoor-4b51b8371
 ">VAIDANT
@@ -36,7 +31,7 @@ Skilled in Python, C, C++, and web development(HTML,CSS).
 <h1>CERTIFICATES</h1>
 <p class="INTRO">I’ve completed certifications such as Python(Basic) and I actively explore fields like machine learning, data science, and web development. 
     </p>
-<h1>MY GOAL</h1>
+<h1>Network</h1>
     <p class="INTRO">
     My goal is to gain practical exposure through projects, internships, and research opportunities, and grow into a role where I can apply my skills to real-world challenges.
 
