@@ -34,6 +34,7 @@ Skilled in Python, C, C++, and web development(HTML,CSS).
 <h1>Network</h1>
     <p class="INTRO">
     My goal is to gain practical exposure through projects, internships, and research opportunities, and grow into a role where I can apply my skills to real-world challenges.
+    Linkedin :- <
 
 </p>
 
