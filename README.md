@@ -25,8 +25,9 @@ Skilled in Python, C, C++, and web development(HTML,CSS).
     <p class="INTRO">
     My goal is to gain practical exposure through projects, internships, and research opportunities, and grow into a role where I can apply my skills to real-world challenges.
     </p>
-        Linkedin :- <a href="www.linkedin.com/invaidant-kapoor-4b51b8371"></a>
-        Youtube :- <a href="www.youtube.com/@COCaspirant"></a>
+        Linkedin :- <a href="www.linkedin.com/invaidant-kapoor-4b51b8371">VK</a>
+    
+        Youtube :- <a href="www.youtube.com/@COCaspirant">COC</a>
 <div class="logo" ><span class="s"></span>
     <span class="I"></span>
 <div class="about">
